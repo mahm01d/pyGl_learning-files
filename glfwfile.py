@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from lib2to3.pgen2.token import OP
 from modulefinder import IMPORT_NAME
 from sre_constants import SUCCESS
